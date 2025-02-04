@@ -5,7 +5,7 @@
       "Nom": "Tacos",
       "Prix": 10.0,
       "TVA": 8,
-      "Stock": 15
+      "Stock": -5
     },
     {
       "ID": 1,
