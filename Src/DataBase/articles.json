@@ -1,0 +1,25 @@
+{
+  "Articles": [
+    {
+      "ID": 0,
+      "Nom": "Tacos",
+      "Prix": 10.0,
+      "TVA": 8,
+      "Stock": 15
+    },
+    {
+      "ID": 1,
+      "Nom": "Coca",
+      "Prix": 1.95,
+      "TVA": 8,
+      "Stock": 100
+    },
+    {
+      "ID": 2,
+      "Nom": "Chocolat",
+      "Prix": 5.0,
+      "TVA": 8,
+      "Stock": 50
+    }
+  ]
+}
